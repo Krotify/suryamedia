@@ -25,7 +25,7 @@
         background-color: #FBA000;
         border-radius: 15px;
         margin: 40px;
-        height: 500px;
+        min-height: 500px;
         padding: 80px;
         -webkit-text-fill-color: white;
     }
@@ -39,7 +39,7 @@
 
     .header {
         height: 120px;
-        padding: 30px;
+        text-align: center;
     }
 
 

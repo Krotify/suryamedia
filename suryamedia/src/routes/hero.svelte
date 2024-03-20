@@ -13,7 +13,7 @@
         background-color: #F4D000;
         margin: 40px;
         border-radius: 15px;
-        height: 450px;
+        min-height: 450px;
         padding: 80px;
         align-items: center;
     }
