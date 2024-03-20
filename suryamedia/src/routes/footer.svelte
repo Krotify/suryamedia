@@ -55,7 +55,7 @@
     @media all and (min-width: 800px){
         .main {
             flex: 3;
-            text-align: center;
+            text-align: left;
         }
 
     .main {
@@ -65,7 +65,8 @@
     @media all and (min-width: 600px){
         .div {
             flex: 1;
-            text-align:center;
+            text-align: left;
+
             
         }
    
