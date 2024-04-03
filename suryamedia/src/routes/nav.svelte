@@ -2,7 +2,7 @@
     <li style="float:left"><b class="item">Surya Media Advertising</b></li>
     <li><a href="/about"><b>About</b></a></li>
     <li><a href="/contact"><b>Contact</b></a></li>
-    <li><a href="/produk"><b>Product</b></a></li>
+    <li><a href="/products"><b>Product</b></a></li>
     <li><a href="/"><b>Home</b></a></li>
     
   </ul>
